@@ -1,0 +1,31 @@
+{
+    "tslint.autoFixOnSave": true,
+    "source.fixAll.tslint": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/tmp": true,
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "cSpell.words": [
+		"CMOR",
+		"Emailhook",
+		"Rollbar",
+		"Shodan",
+		"apikey",
+		"arraybuffer",
+		"headerapikey",
+		"nestjs",
+		"thum"
+	],
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false
+}
